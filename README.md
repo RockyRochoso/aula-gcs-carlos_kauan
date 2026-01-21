@@ -1,5 +1,5 @@
 # Aula Prática de Gerência de Configuração de Software
-Este repositório foi criado para praticar controle de versões.
+Este repositório foi criado para praticar versionamento e controle de mudanças.
 ## Item de configuração: README.md (Prática de Gerência de Configuração de Software)
 
 ## Objetivo da prática
